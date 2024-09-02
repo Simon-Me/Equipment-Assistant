@@ -1,0 +1,7 @@
+{
+  "selectedEquipment": [
+    {"name": "Sony FX3", "category": "Kameras", "quantity": 1},
+    {"name": "Sony 24-70mm f/2.8 GM", "category": "Objektive", "quantity": 1},
+    // ... weitere Ausrüstungsgegenstände
+  ]
+}

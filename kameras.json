@@ -1,0 +1,85 @@
+{
+  "ARRI": {
+    "ALEXA": [
+      "ALEXA Mini LF",
+      "ALEXA Mini"
+    ]
+  },
+  "RED": {
+    "V-Raptor": [
+      "V-Raptor [X] 8K VV",
+      "V-Raptor XL 8K"
+    ],
+    "KOMODO": [
+      "KOMODO-X 6K",
+      "KOMODO 6K"
+    ],
+    "DSMC2": [
+      "GEMINI 5K"
+    ]
+  },
+  "Sony": {
+    "CineAlta": [
+      "Venice 2",
+      "BURANO"
+    ],
+    "FX Series": [
+      "ILME-FX6",
+      "ILME-FX3",
+      "ILME-FX30"
+    ],
+    "Alpha": [
+      "Alpha7s Mark III",
+      "Alpha7s Mark II",
+      "Alpha7 Mark IV"
+    ],
+    "PXW": [
+      "PXW-FS7 Mark II",
+      "PXW-FS7",
+      "PXW-Z280"
+    ],
+    "PMW": [
+      "PMW-200"
+    ],
+    "HDR": [
+      "HDR-SR11E"
+    ]
+  },
+  "Canon": {
+    "EOS R": [
+      "EOS R5C",
+      "EOS R5"
+    ],
+    "EOS": [
+      "EOS 5D Mark IV"
+    ],
+    "Cinema EOS": [
+      "EOS C300 Mark III",
+      "EOS C70"
+    ]
+  },
+  "Blackmagic": {
+    "URSA": [
+      "URSA mini Pro 12K",
+      "URSA mini Pro 4,6K G2"
+    ],
+    "Pocket Cinema Camera": [
+      "Pocket Cinema Camera 6K PRO",
+      "Pocket Cinema Camera 6K PL",
+      "Pocket Cinema Camera 6K EF",
+      "Pocket Cinema Camera 4K"
+    ]
+  },
+  "Panasonic": {
+    "Lumix": [
+      "Lumix GH6"
+    ]
+  },
+  "GoPro": {
+    "HERO": [
+      "HERO12 Black Edition",
+      "HERO10 Black Edition",
+      "HERO5 Black Edition"
+    ]
+  }
+}

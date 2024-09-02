@@ -1,0 +1,79 @@
+{
+  "AudioEquipment": {
+    "MixerRecorder": [
+      "Sound Devices 888",
+      "Sound Devices 833",
+      "Zoom F8n",
+      "Zoom F6",
+      "Tascam DR-60DmkII",
+      "Zaxcom Nova"
+    ],
+    "BoomPoles": [
+      "K-Tek Klassic",
+      "Ambient QX 5130",
+      "Gitzo GB3560",
+      "Rode Boompole Pro",
+      "VDB L-QT"
+    ],
+    "Mikrofone": {
+      "ShotgunMikrofone": [
+        "Sennheiser MKH416",
+        "Rode NTG3",
+        "Audio-Technica AT897",
+        "Schoeps CMIT 5U",
+        "Neumann KMR 81i"
+      ],
+      "LavalierMikrofone": [
+        "Sennheiser AVX-MKE2",
+        "Rode Lavalier GO",
+        "Sony ECM-77B",
+        "Tram TR50",
+        "DPA 4060"
+      ],
+      "DrahtloseSysteme": [
+        "Lectrosonics SMQV",
+        "Sennheiser EW 100 G4",
+        "Shure Axient Digital",
+        "Zaxcom TRXLA3",
+        "Audio Ltd A10"
+      ],
+      "StereoMikrofone": [
+        "Zoom H5",
+        "Tascam DR-100mkIII",
+        "Sony PCM-D100",
+        "Rode NT4",
+        "Sennheiser AMBEO VR Mic"
+      ]
+    },
+    "Headphones": [
+      "Sony MDR-7506",
+      "Sennheiser HD 280 Pro",
+      "Audio-Technica ATH-M50x",
+      "Beyerdynamic DT 770 Pro",
+      "AKG K240 Studio"
+    ],
+    "Accessories": {
+      "ShockMounts": [
+        "Rycote InVision",
+        "Schoeps STR 350g",
+        "K-Tek K-SM",
+        "Rode SM4-R",
+        "Audix SMT-25 P"
+      ],
+      "WindProtection": [
+        "Rycote Super-Softie",
+        "Schoeps W5D",
+        "Rode Blimp",
+        "Cinela Osix 2",
+        "DPA DUA0020"
+      ],
+      "CablesAndConnectors": [
+        "Neutrik XLR Connectors",
+        "Canare L-4E6S",
+        "Mogami Gold Studio XLR",
+        "Hosa Pro XLR Cable",
+        "Gotham GAC-3"
+      ]
+    }
+  }
+}

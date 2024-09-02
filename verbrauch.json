@@ -1,0 +1,186 @@
+{
+  "Zeiss": {
+    "Supreme Prime Radiance": [
+      "21mm T1.5",
+      "25mm T1.5",
+      "29mm T1.5",
+      "35mm T1.5",
+      "50mm T1.5",
+      "85mm T1.5",
+      "100mm T1.5"
+    ],
+    "Compact Zoom CZ.2": [
+      "15-30mm T2.9",
+      "28-80mm T2.9",
+      "70-200mm T2.9"
+    ]
+  },
+  "Cooke": {
+    "S4/i": [
+      "14mm T2.0",
+      "18mm T2.0",
+      "25mm T2.0",
+      "32mm T2.0",
+      "50mm T2.0",
+      "75mm T2.0",
+      "100mm T2.0"
+    ],
+    "Panchro/i Classic": [
+      "18mm T2.2",
+      "25mm T2.2",
+      "32mm T2.2",
+      "40mm T2.2",
+      "50mm T2.2",
+      "75mm T2.2",
+      "100mm T2.6"
+    ],
+    "Zoom": [
+      "Varotal 20-100mm T3.1",
+      "25-250mm MkII T3.9"
+    ]
+  },
+  "Iron Glass": {
+    "Vintage Soviet Prime": [
+      "20mm T3.6 (MIR-20M)",
+      "28mm T3.6 (MIR-10A)",
+      "37mm T2.9 (MIR-1V)",
+      "58mm T2.1 (Helios 44-2)",
+      "85mm T2.1 (Jupiter-9)",
+      "135mm T2.9 (Tair-11A)"
+    ]
+  },
+  "Tokina": {
+    "Cinema Vista Prime": [
+      "18mm T1.5",
+      "25mm T1.5",
+      "35mm T1.5",
+      "50mm T1.5",
+      "85mm T1.5",
+      "105mm T1.5"
+    ]
+  },
+  "Atlas": {
+    "Orion Prime": [
+      "32mm T2.0",
+      "40mm T2.0",
+      "65mm T2.0",
+      "80mm T2.0",
+      "100mm T2.0"
+    ]
+  },
+  "Sigma": {
+    "FF High Speed Prime": [
+      "14mm T2.0",
+      "20mm T1.5",
+      "24mm T1.5",
+      "35mm T1.5",
+      "50mm T1.5",
+      "85mm T1.5",
+      "135mm T2.0"
+    ],
+    "Cine Zoom": [
+      "18-35mm T2.0",
+      "50-100mm T2.0"
+    ]
+  },
+  "Leica": {
+    "Summicron-C": [
+      "21mm T2.0",
+      "35mm T2.0",
+      "75mm T2.0"
+    ],
+    "Summilux-M 0.8": [
+      "21mm T1.4",
+      "24mm T1.4",
+      "35mm T1.4"
+    ],
+    "Noctilux-M 0.8": [
+      "50mm T0.95"
+    ],
+    "Summicron-M 0.8": [
+      "75mm T2.0",
+      "90mm T2.0"
+    ],
+    "Zoom": [
+      "8-18mm T2.8-4.0 Vario-Elmarit"
+    ]
+  },
+  "ARRI/Zeiss": {
+    "Ultra Prime": [
+      "16mm T1.9",
+      "24mm T1.9",
+      "32mm T1.9",
+      "50mm T1.9",
+      "85mm T1.9",
+      "100mm T1.9"
+    ],
+    "Alura Zoom": [
+      "18-80mm T2.6"
+    ],
+    "LWZ": [
+      "LWZ.2 15.5-45mm T2.6",
+      "LWZ.3 21-100mm T2.9-3.9"
+    ]
+  },
+  "Canon": {
+    "RF": [
+      "15-35mm T2.8 L IS USM",
+      "24-70mm T2.8 L IS USM",
+      "24-105mm T4.0 L IS USM",
+      "100mm T2.8 L IS USM"
+    ],
+    "EF": [
+      "14mm T2.8 L II USM",
+      "24mm T1.4 L II",
+      "35mm T1.4 L II USM",
+      "50mm T1.2 L USM",
+      "85mm T1.2 L II",
+      "100mm T2.8 L IS USM Macro",
+      "135mm T2.0 L USM"
+    ],
+    "FD": [
+      "14mm T2.8 L",
+      "24mm T2.0 MC",
+      "28mm T2.0",
+      "50mm T1.4",
+      "85mm T1.2 L",
+      "100mm T2.0 L"
+    ]
+  },
+  "Sony": {
+    "FE G Master": [
+      "14mm T1.8",
+      "24mm T1.4",
+      "35mm T1.4",
+      "50mm T1.2",
+      "85mm T1.4"
+    ]
+  },
+  "Panasonic": {
+    "Lumix": [
+      "12-35mm T2.8 G X Vario",
+      "35-100mm T2.8 II OIS G X Vario"
+    ]
+  },
+  "Angenieux": {
+    "Optimo Style": [
+      "16-40mm T2.8",
+      "30-76mm T2.8"
+    ]
+  },
+  "Laowa": {
+    "Zoom": [
+      "Ooom 25-100mm T2.9"
+    ]
+  },
+  "DZOFILM": {
+    "Pictor Zoom": [
+      "20-55mm T2.8",
+      "50-125mm T2.8"
+    ],
+    "Catta Ace Zoom": [
+      "35-80mm T2.9",
+      "70-135mm T2.9"
+    ]
+  }
+}

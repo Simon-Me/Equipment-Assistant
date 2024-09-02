@@ -1,0 +1,118 @@
+{
+  "SmallHD": {
+    "On-Camera Monitors": [
+      "502 Bright",
+      "702 Touch",
+      "Focus OLED",
+      "Focus 7",
+      "Indie 7",
+      "Cine 7"
+    ],
+    "Production Monitors": [
+      "1303 HDR",
+      "1703 P3X",
+      "2403 HDR"
+    ]
+  },
+  "Atomos": {
+    "On-Camera Monitors": [
+      "Ninja V",
+      "Ninja V+",
+      "Ninja Flame"
+    ],
+    "Production Monitors": [
+      "Shogun 7",
+      "Shogun Inferno",
+      "Sumo 19",
+      "Neon Series"
+    ]
+  },
+  "Blackmagic Design": {
+    "Portable Monitors": [
+      "Video Assist 5” 12G HDR",
+      "Video Assist 7” 12G HDR"
+    ]
+  },
+  "FeelWorld": {
+    "Budget Monitors": [
+      "T7",
+      "F6 Plus",
+      "LUT7",
+      "Master MA6P",
+      "S55"
+    ]
+  },
+  "Portkeys": {
+    "High-Performance Monitors": [
+      "BM5 III",
+      "HS7T",
+      "LH5P",
+      "P6",
+      "BM5 WR"
+    ]
+  },
+  "Zacuto": {
+    "EVF Monitors": [
+      "Gratical HD Micro OLED EVF",
+      "Gratical Eye EVF"
+    ]
+  },
+  "TVLogic": {
+    "Professional Monitors": [
+      "VFM-055A",
+      "VFM-058W",
+      "F-7H mk2",
+      "F-5A"
+    ]
+  },
+  "Transvideo": {
+    "Cinema Monitors": [
+      "StarliteHD5-ARRI",
+      "CineMonitorHD",
+      "StarliteRF"
+    ]
+  },
+  "Flanders Scientific": {
+    "Reference Monitors": [
+      "DM170",
+      "DM240",
+      "XM310K"
+    ]
+  },
+  "Sony": {
+    "Professional Monitors": [
+      "PVM-A250",
+      "BVM-X300",
+      "PVM-X550",
+      "BVM-HX310"
+    ]
+  },
+  "Panasonic": {
+    "Broadcast Monitors": [
+      "BT-4LH310",
+      "BT-LH2170",
+      "TH-98LQ70"
+    ]
+  },
+  "JVC": {
+    "Video Monitors": [
+      "DT-V17G15",
+      "DT-V21G11",
+      "DT-V24G1"
+    ]
+  },
+  "OSEE": {
+    "Production Monitors": [
+      "LUM-171G",
+      "LUM-240G",
+      "LUM-310X"
+    ]
+  },
+  "Sharp": {
+    "Touchscreen Monitors": [
+      "PN-K322B",
+      "LL-S201A",
+      "PN-L603B"
+    ]
+  }
+}
